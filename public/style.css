@@ -1,0 +1,9 @@
+.Srow,
+.Scol-1 {
+    width: 50%;
+    border: black;
+    border-width: 3px;
+    border-style: solid;
+    margin: 2em;
+    padding: 2em;
+}
